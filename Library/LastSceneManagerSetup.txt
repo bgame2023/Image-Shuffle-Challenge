@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DragAndDropPuzzle/DDP Example.unity
+  isLoaded: 1
+  isActive: 1
